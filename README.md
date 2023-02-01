@@ -5,3 +5,4 @@
 
 Please get in touch if you have any suggestions for additions & edits etc. at c.vandenberg@bristol.ac.uk. If you have your own version of a batch processing pipeline that you would like to make available to the community, let me know!
 
+The MICA toolbox including the QCPA framework, tutorials, guides and a community forum can be found here: www.empiricalimaging.com
